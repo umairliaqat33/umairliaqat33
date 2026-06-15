@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 👋 Hi, I’m **Umair Liaqat** — a **Flutter Developer** with **3+ years of professional experience** building scalable, production-ready mobile applications.
 
